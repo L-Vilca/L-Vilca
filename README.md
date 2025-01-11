@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/liz-vilca-095212320">Liz</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/0Zf283n.png" alt="Portada Liz Vilca">
+<img src="https://i.imgur.com/pVOAOLu.png" alt="Portada Liz Vilca">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6M7bp4t1qJBxkFlQapKqRw?style=social)](https://youtube.com/@codigoscomicos?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/L-Vilca?style=social)](https://github.com/L-Vilca)
