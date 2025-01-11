@@ -1,9 +1,9 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="www.linkedin.com/in/liz-vilca-095212320">Liz</a> 👋</h1>
+  <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/liz-vilca-095212320">Liz</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/kSfvoBu.png">
+<img src="https://i.imgur.com/kSfvoBu.png" alt="Portada Liz Vilca">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6M7bp4t1qJBxkFlQapKqRw?style=social)](https://youtube.com/CodigosComicos?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6M7bp4t1qJBxkFlQapKqRw?style=social)](https://youtube.com/@codigoscomicos?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/L-Vilca?style=social)](https://github.com/L-Vilca)
 
 ## Sobre mí
@@ -98,11 +98,12 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/L-Vilca">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L-Vilca&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-Vilca&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
 <!--
 **L-Vilca/L-Vilca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
