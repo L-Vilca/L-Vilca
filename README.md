@@ -16,7 +16,7 @@
 
 <br>
 
-## Proyectos *bombitas*
+## Proyectos *destacados*
 <table>
 <tr>
 <td width="50%">
@@ -99,10 +99,11 @@
 
 <p align="center">
 <a href="https://github.com/L-Vilca">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L-Vilca&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-Vilca&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=L-Vilca&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=L-Vilca&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
 
 <!--
 **L-Vilca/L-Vilca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
