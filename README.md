@@ -3,7 +3,7 @@
 </div>
 <img src="https://i.imgur.com/kSfvoBu.png">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/CodigosComicos?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6M7bp4t1qJBxkFlQapKqRw?style=social)](https://youtube.com/CodigosComicos?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/L-Vilca?style=social)](https://github.com/L-Vilca)
 
 ## Sobre mí
