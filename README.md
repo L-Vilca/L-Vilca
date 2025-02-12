@@ -12,7 +12,6 @@
 ## **🙋‍♀️ Sobre Mí**
 - 🎓 **Ingeniera de Sistemas**  
 - 📊 **Apasionada por el análisis de datos**  
-- 💻 **Trabajo en proyectos de gestión y apps móviles**  
 - 🚀 **Aprendiendo desarrollo ágil: XP y Design Thinking**  
 - 🧑‍🏫 **Aspiro a ser catedrática universitaria**  
 
